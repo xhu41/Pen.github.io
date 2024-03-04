@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Hello, Penguins!",
     "section": "",
-    "text": "This is a website about Penguins.\nyml bring together different qmd files into a website, and then i use github page to public the yml website.\nin yml, “output-dir: docs” is very important, all files github page use to create personal website will be saved in docs.\ngithub: setting-&gt;page-&gt;main, docs,save"
+    "text": "This is a website about Penguins.\nyml bring together different qmd files into a website, and then i use github page to public the yml website.\nin yml, “output-dir: docs” is very important, render yml under build, then all files github page use to create personal website will be saved in docs.\ngithub: setting-&gt;page-&gt;main, docs,save"
   },
   {
     "objectID": "index.html",
