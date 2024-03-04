@@ -5,3 +5,9 @@ editor: visual
 ---
 
 This is a website about Penguins.
+
+yml bring together different qmd files into a website, and then i use github page to public the yml website.
+
+in yml, "output-dir: docs" is very important, all files github page use to create personal website will be saved in docs.
+
+github: setting-\>page-\>main, docs,save
