@@ -1,0 +1,12 @@
+project: 
+  type: website
+  output-dir: doc
+  
+website: 
+  title: "Welcome to Mysite"
+  navbar: 
+    left:
+      - index.qmd
+      - about.qmd
+    
+  
